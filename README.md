@@ -115,9 +115,3 @@ Street legal "gokart" cars ( like the Ariel Atom 4 )
 Dune Buggies
 
 Tube chassie jeeps
-
-&#x200B;
-
-**Closing notes:**
-
-This is designed to be the car you would want in the apocalypse.
