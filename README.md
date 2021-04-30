@@ -96,9 +96,10 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 **Development:**
 
-Currently working on it in CAD - [file](./car.FCStd)
+Currently working on it in FreeCAD - [file](./car.FCStd)
 
 ```
+<install freecad>
 $ git clone https://github.com/sketchsnipe/suckless-car
 $ cd suckless-car
 $ freecad car.FCStd
