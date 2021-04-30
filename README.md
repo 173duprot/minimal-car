@@ -70,7 +70,7 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 **Notes:**
 
-\[0\] The lack of safety features on the vehicle mean that it will have safety more akin to that of a motorcycle, than that of a modern car.
+\[0\] The lack of safety features on the vehicle means that it will have safety more akin to that of a motorcycle, than that of a modern car.
 
 \[1\] Full 5 point harness to make up for the lack of airbags or solid non-canvas doors
 
@@ -97,6 +97,12 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 **Development:**
 
 Currently working on it in CAD - [file](./car.FCStd)
+
+```
+$ git clone https://github.com/sketchsnipe/suckless-car
+$ cd suckless-car
+$ freecad car.FCStd
+```
 
 &#x200B;
 
