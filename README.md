@@ -96,11 +96,7 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 **Development:**
 
-Currently working on it in CAD [https://imgur.com/a/HYbREFZ](https://imgur.com/a/HYbREFZ)
-
-Front wheel assembly: [https://imgur.com/a/WJYV9q8](https://imgur.com/a/WJYV9q8)
-
-Rear wheel assembly: [https://imgur.com/a/Cfc0Gqh](https://imgur.com/a/Cfc0Gqh)
+Currently working on it in CAD [file](./car.FCStd)
 
 &#x200B;
 
