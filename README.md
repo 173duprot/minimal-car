@@ -96,7 +96,7 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 **Development:**
 
-Currently working on it in CAD [file](./car.FCStd)
+Currently working on it in CAD - [file](./car.FCStd)
 
 &#x200B;
 
