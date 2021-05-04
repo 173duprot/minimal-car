@@ -24,6 +24,10 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Toughness, should be built like a tank, simple and sturdy
 
+\- Decent Off-roading
+
+\- Light Towing
+
 \- Fewest moving parts possible
 
 \- Repairable with nothing but a wrench
@@ -42,10 +46,6 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Mechanical speedometer ( Notes\[8\] )
 
-\- Off-roading
-
-\- Towing
-
 \- High Acceleration
 
 \- High Speed
@@ -56,13 +56,13 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Air bags
 
-\- ABS, ECS, TCS or ECU
+\- ABS, ECS, TCS or ECU (note: Tesla motor-breaking does not emulate ABS)
 
 &#x200B;
 
 **Neutral:**
 
-\- Efficiency ( Notes\[4\] )
+\- Efficiency
 
 \- Regenerative breaking ( Notes\[4\] )
 
