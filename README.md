@@ -110,8 +110,9 @@ $ freecad [design].FCStd
 &#x200B;
 
 
-design: ***street-rail***
 ![street-rail](./design/street-rail/street-rail.png)
+
+design: ***street-rail***
 
 Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
 
@@ -128,8 +129,9 @@ Note: You can use what's called a "axle beam" \- a premade IFS system that uses 
 &#x200B;
 
 
-design: ***offroad-van***
 ![offroad-van](./designs/offroad-van/offroad-van.png)
+
+design: ***offroad-van***
 
 Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
 
