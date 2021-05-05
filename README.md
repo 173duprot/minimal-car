@@ -24,9 +24,9 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Toughness, should be built like a tank, simple and sturdy
 
-\- Decent Off-roading
+\- Decent Off-road
 
-\- Light Towing
+\- Decent Towing
 
 \- Fewest moving parts possible
 
@@ -35,6 +35,8 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 \- Made out of standardized, cheap parts
 
 \- You should be able to glance at it and understand how it works
+
+\- Light enough that a person could reasonably pick up or move the vehicle
 
 &#x200B;
 
@@ -91,6 +93,8 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 \[7\] No differential, independent electric motors have enough give to allow wheels to spin at different speed. If the car gets stuck, possibly giving the user the option of manual control of the left and right motor?
 
 \[8\] Speedometer can be provided by a cheap, [specialized GPS speedometer unit](https://www.amazon.com/TIMPROVE-Universal-Speedometer-Windshield-Motorcycle/dp/B07KZ2HT4S/ref=sr_1_3?crid=2E5EMV9BP1R8P&dchild=1&keywords=gps+speedometer&qid=1619624700&sprefix=gps+spe%2Cgarden%2C175&sr=8-3) mounted to the dash. No need for extra circus, or anything mechanical that could fail. This is simply to pass street legal inspection.
+
+\[9\] The large problem to face with towing 
 
 &#x200B;
 
