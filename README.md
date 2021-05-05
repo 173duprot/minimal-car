@@ -107,6 +107,7 @@ $ git clone https://github.com/sketchsnipe/suckless-car
 $ cd suckless-car
 $ freecad car.FCStd
 ```
+![car](./car.png)
 
 &#x200B;
 
