@@ -127,7 +127,7 @@ Note: You can use what's called a "axle beam" \- a premade IFS system that uses 
 \- front coil shocks
 
 &#x200B;
-
+&#x200B;
 
 ![offroad-van](./designs/offroad-van/offroad-van.png)
 
@@ -141,6 +141,7 @@ Note: This has solid axles, and shit handeling, but it can do light rock crawlin
 
 \- shit handeling
 
+&#x200B;
 &#x200B;
 
 
