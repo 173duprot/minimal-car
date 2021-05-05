@@ -4,29 +4,28 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 &#x200B;
 
+
 **Goals:**
 
+\+ Over 100 miles Range
 
+\+ Street legal
 
-+ Over 100 miles Range
+\+ Usable on an interstate
 
-+ Street legal
+\+ Dry interior (protection from the weather)
 
-+ Usable on an interstate
+\+ Toughness, should be built like a tank, simple and sturdy
 
-+ Dry interior (protection from the weather)
+\+ Fewest moving parts possible
 
-+ Toughness, should be built like a tank, simple and sturdy
+\+ Repairable with nothing but a wrench
 
-+ Fewest moving parts possible
+\+ Made out of standardized, cheap parts
 
-+ Repairable with nothing but a wrench
+\+ You should be able to glance at it and understand how it works
 
-+ Made out of standardized, cheap parts
-
-+ You should be able to glance at it and understand how it works
-
-+ Light enough that a person could reasonably pick up one side of the vehicle.
+\+ Light enough that a person could reasonably pick up one side of the vehicle.
 
 &#x200B;
 
@@ -112,11 +111,11 @@ $ freecad [design].FCStd
 ![street-rail](./design/street-rail/street-rail.png)
 
 
-+ great handeling
+\+ great handeling
 
-+ very efficent
+\+ very efficent
 
-+ solid axle rear suspention
+\+ solid axle rear suspention
 
 \- independant front suspention
 
@@ -128,9 +127,9 @@ Note: You can use what's called a "axle beam" \- a premade IFS system that uses 
 ![offroad-van](./designs/offroad-van/offroad-van.png)
 
 
-+ offroad
+\+ offroad
 
-+ towing
+\+ towing
 
 \- shit handeling
 
