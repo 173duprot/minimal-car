@@ -24,10 +24,6 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Toughness, should be built like a tank, simple and sturdy
 
-\- Decent Off-road
-
-\- Decent Towing
-
 \- Fewest moving parts possible
 
 \- Repairable with nothing but a wrench
@@ -52,6 +48,10 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- High Speed
 
+\- Off-road
+
+\- Towing
+
 \- Tight cornering
 
 \- Using a Computer as opposed to dumb circuits to control the motor
@@ -68,6 +68,8 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- Regenerative breaking ( Notes\[4\] )
 
+\- Good Handeling
+
 &#x200B;
 
 **Notes:**
@@ -82,7 +84,7 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \[4\] Salvaged Tesla motors are common, and will only get more and more common. we will be using those. This means that regenerative breaking will be built in to the motors, and accessible without any extra complexity.
 
->\>>> [www.tesla.com/blog/magic-tesla-roadster-regenerative-braking](https://www.tesla.com/blog/magic-tesla-roadster-regenerative-braking)  
+> [www.tesla.com/blog/magic-tesla-roadster-regenerative-braking](https://www.tesla.com/blog/magic-tesla-roadster-regenerative-braking)  
 >  
 >The torque command can be positive or negative. When the torque serves to slow the vehicle then energy is returned to the battery and presto - we have regenerative braking!
 
@@ -100,14 +102,34 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 **Development:**
 
-Currently working on it in FreeCAD - [file](./car.FCStd)
+Currently working on it in FreeCAD, designs in the ``./designs`` folder
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
-$ cd suckless-car
-$ freecad car.FCStd
+$ cd suckless-car/designs/[design]
+$ freecad [design].FCStd
 ```
-![car](./car.png)
+
+design: ``street-rail``
+![street-rail](./design/street-rail/street-rail.png)
+
+Deviations from goals:
++ great handeling
++ very efficent
+- independant front suspention
+
+Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
+
+design: ``offroad-van``
+![offroad-van](./design/offroad-van/offroad-van.png)
+
+Deviations from goals:
++ offroad
++ towing
+
+Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
+
+
 
 &#x200B;
 
