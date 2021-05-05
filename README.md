@@ -1,76 +1,49 @@
 **Abstract:**
 
-It is no secret that modern cars are complex. Your average Toyota has over 30,000 parts, and about 6000 moving parts. This means they are near impossible too modify, adjust, or repair without piles of specialized parts, 8 years in the automotive repair industry, and hundreds of hours of work.
-
-Cars are so complex that they need to be 'diagnosed'. This is a disaster, cars have traded both simplicity and reliability for comfort.
-
-Very few people have the time, skill, or patience to work on their cars, and so are forced to fork out thousands for even just minor damages, if done to an obscure enough part.
-
-Just recently I had to pay over \~$1500 just because some small, obscure component broke in my car.
-
-The goal of this project is to create the simplest, most reliable, and easy to fix car out there.
+It is no secret that modern cars are complex. Your average Toyota has over 30,000 parts, and about 6000 moving parts. This means they are near impossible too modify, adjust, or repair without piles of specialized parts, 8 years in the automotive repair industry, and hundreds of hours of work. Cars are so complex that they need to be 'diagnosed'. This is a disaster, cars have traded both simplicity and reliability for comfort. Very few people have the time, skill, or patience to work on their cars, and so are forced to fork out thousands for even just minor damages, if done to an obscure enough part. Just recently I had to pay over \~$1500 just because some small, obscure component broke in my car. The goal of this project is to create the simplest, most reliable, and easy to fix car out there.
 
 &#x200B;
 
 **Goals:**
 
-\- Over 100 miles Range
-
-\- Street legal
-
-\- Usable on an interstate
-
-\- Dry interior (protection from the weather)
-
-\- Toughness, should be built like a tank, simple and sturdy
-
-\- Fewest moving parts possible
-
-\- Repairable with nothing but a wrench
-
-\- Made out of standardized, cheap parts
-
-\- You should be able to glance at it and understand how it works
-
-\- Light enough that a person could reasonably pick up one side of the vehicle.
+/+ Over 100 miles Range
+/+ Street legal
+/+ Usable on an interstate
+/+ Dry interior (protection from the weather)
+/+ Toughness, should be built like a tank, simple and sturdy
+/+ Fewest moving parts possible
+/+ Repairable with nothing but a wrench
+/+ Made out of standardized, cheap parts
+/+ You should be able to glance at it and understand how it works
+/+ Light enough that a person could reasonably pick up one side of the vehicle.
 
 &#x200B;
 
+
 **Non-goals:**
-
 \- Air conditioning
-
 \- Independent suspension
-
 \- Mechanical speedometer ( Notes\[8\] )
-
 \- High Acceleration
-
 \- High Speed
-
 \- Off-road
-
 \- Towing
-
 \- Tight cornering
-
 \- Using a Computer as opposed to dumb circuits to control the motor
-
 \- Air bags
-
 \- ABS, ECS, TCS or ECU (note: Tesla motor-breaking does not emulate ABS)
 
 &#x200B;
 
+
 **Neutral:**
 
-\- Efficiency
-
-\- Regenerative breaking ( Notes\[4\] )
-
-\- Good Handeling
+\| Efficiency
+\| Regenerative breaking ( Notes\[4\] )
+\| Good Handeling
 
 &#x200B;
+
 
 **Notes:**
 
@@ -100,35 +73,36 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 &#x200B;
 
+
 **Development:**
 
-Currently working on it in FreeCAD, designs in the ``./designs`` folder
+Currently working on it in FreeCAD, designs in the ``./design`` folder
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
-$ cd suckless-car/designs/[design]
+$ cd suckless-car/design/[design]
 $ freecad [design].FCStd
 ```
 
-design: ``street-rail``
+``street-rail``
 ![street-rail](./design/street-rail/street-rail.png)
 
-Deviations from goals:
-+ great handeling
-+ very efficent
-- independant front suspention
+\+ great handeling
+\+ very efficent
+\+ solid axle rear suspention
+\- independant front suspention
+\- front coil shocks
+
+Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
+
+``offroad-van``
+![offroad-van](./designs/offroad-van/offroad-van.png)
+
+\+ offroad
+\+ towing
+\- shit handeling
 
 Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
-
-design: ``offroad-van``
-![offroad-van](./design/offroad-van/offroad-van.png)
-
-Deviations from goals:
-+ offroad
-+ towing
-
-Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
-
 
 
 &#x200B;
