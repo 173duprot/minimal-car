@@ -6,31 +6,52 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 **Goals:**
 
+
 /+ Over 100 miles Range
+
 /+ Street legal
+
 /+ Usable on an interstate
+
 /+ Dry interior (protection from the weather)
+
 /+ Toughness, should be built like a tank, simple and sturdy
+
 /+ Fewest moving parts possible
+
 /+ Repairable with nothing but a wrench
+
 /+ Made out of standardized, cheap parts
+
 /+ You should be able to glance at it and understand how it works
+
 /+ Light enough that a person could reasonably pick up one side of the vehicle.
 
 &#x200B;
 
 
 **Non-goals:**
+
 \- Air conditioning
+
 \- Independent suspension
+
 \- Mechanical speedometer ( Notes\[8\] )
+
 \- High Acceleration
+
 \- High Speed
+
 \- Off-road
+
 \- Towing
+
 \- Tight cornering
+
 \- Using a Computer as opposed to dumb circuits to control the motor
+
 \- Air bags
+
 \- ABS, ECS, TCS or ECU (note: Tesla motor-breaking does not emulate ABS)
 
 &#x200B;
@@ -39,7 +60,9 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 **Neutral:**
 
 \| Efficiency
+
 \| Regenerative breaking ( Notes\[4\] )
+
 \| Good Handeling
 
 &#x200B;
@@ -87,10 +110,15 @@ $ freecad [design].FCStd
 ``street-rail``
 ![street-rail](./design/street-rail/street-rail.png)
 
+
 \+ great handeling
+
 \+ very efficent
+
 \+ solid axle rear suspention
+
 \- independant front suspention
+
 \- front coil shocks
 
 Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
@@ -98,8 +126,11 @@ Note: You can use what's called a "axle beam" \- a premade IFS system that uses 
 ``offroad-van``
 ![offroad-van](./designs/offroad-van/offroad-van.png)
 
+
 \+ offroad
+
 \+ towing
+
 \- shit handeling
 
 Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
