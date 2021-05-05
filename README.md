@@ -113,6 +113,7 @@ $ freecad [design].FCStd
 design: ***street-rail***
 ![street-rail](./design/street-rail/street-rail.png)
 
+Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
 
 \+ great handeling
 
@@ -124,22 +125,19 @@ design: ***street-rail***
 
 \- front coil shocks
 
-Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
-
 &#x200B;
 
 
 design: ***offroad-van***
 ![offroad-van](./designs/offroad-van/offroad-van.png)
 
+Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
 
 \+ offroad
 
 \+ towing
 
 \- shit handeling
-
-Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
 
 &#x200B;
 
