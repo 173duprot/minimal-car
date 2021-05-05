@@ -36,7 +36,7 @@ The goal of this project is to create the simplest, most reliable, and easy to f
 
 \- You should be able to glance at it and understand how it works
 
-\- Light enough that a person could reasonably pick up or move the vehicle
+\- Light enough that a person could reasonably pick up one side of the vehicle.
 
 &#x200B;
 
