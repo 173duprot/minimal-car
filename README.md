@@ -42,10 +42,6 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 \- High Speed
 
-\- Off-road
-
-\- Towing
-
 \- Tight cornering
 
 \- Using a Computer as opposed to dumb circuits to control the motor
@@ -63,7 +59,11 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 \| Regenerative breaking ( Notes\[4\] )
 
+\- Off-road
+
 \| Good Handeling
+
+\- Towing
 
 &#x200B;
 
@@ -84,15 +84,17 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 >  
 >The torque command can be positive or negative. When the torque serves to slow the vehicle then energy is returned to the battery and presto - we have regenerative braking!
 
-\[5\] Solid axle's are simple, indestructible, and allow you to get rid of the headaches of independent suspension.
+\[5\] Solid axle's are simple, indestructible, and allow you to get rid of the headaches of independent suspension
 
-\[6\] Leaf springs have been used since the middle ages and are still indestructible, strong, adjustable, and modifiable with a wrench. Added benefit, if one of the spring plates snap, the car remains drivable. Salvageable from 18 wheelers, trailers, most old cars, modern trucks, buses etc.
+\[5.1\] However they have horrible handeling. I will be using them on the rear with leaf springs (Notes[6]) with a traction bar - similar to the implimentation [mucle cars use](https://www.dragzine.com/tech-stories/chassis-safety/how-to-going-fast-with-leaf-spring-suspensions/)
 
-\[7\] No differential, independent electric motors have enough give to allow wheels to spin at different speed. If the car gets stuck, possibly giving the user the option of manual control of the left and right motor?
+\[5.1.1\] Leaf springs have been used since the middle ages and are still indestructible, strong, adjustable, and modifiable with a wrench. Added benefit, if one of the spring plates snap, the car remains drivable. Salvageable from 18 wheelers, trailers, most old cars, modern trucks, buses etc.
 
-\[8\] Speedometer can be provided by a cheap, [specialized GPS speedometer unit](https://www.amazon.com/TIMPROVE-Universal-Speedometer-Windshield-Motorcycle/dp/B07KZ2HT4S/ref=sr_1_3?crid=2E5EMV9BP1R8P&dchild=1&keywords=gps+speedometer&qid=1619624700&sprefix=gps+spe%2Cgarden%2C175&sr=8-3) mounted to the dash. No need for extra circus, or anything mechanical that could fail. This is simply to pass street legal inspection.
+\[5.2\] On the front I will be using the simplest IFS system I can - the [front suspention used by dune buggies](https://www.texasdesertracing.com/wp-content/uploads/2014/02/Class-10.jpg) - 2 a-arms, a steering arm, and a coil-spring/shock.
 
-\[9\] The large problem to face with towing 
+\[6\] No differential, independent electric motors have enough give to allow wheels to spin at different speed. If the car gets stuck, possibly giving the user the option of manual control of the left and right motor?
+
+\[7\] Speedometer can be provided by a cheap, [specialized GPS speedometer unit](https://www.amazon.com/TIMPROVE-Universal-Speedometer-Windshield-Motorcycle/dp/B07KZ2HT4S/ref=sr_1_3?crid=2E5EMV9BP1R8P&dchild=1&keywords=gps+speedometer&qid=1619624700&sprefix=gps+spe%2Cgarden%2C175&sr=8-3) mounted to the dash. No need for extra circus, or anything mechanical that could fail. This is simply to pass street legal inspection.
 
 &#x200B;
 
