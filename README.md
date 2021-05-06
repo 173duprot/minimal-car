@@ -105,47 +105,18 @@ Currently working on it in FreeCAD, designs in the ``./design`` folder
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
-$ cd minimal-car/design/[design]
-$ freecad [design].FCStd
+$ cd minimal-car/design/itteration-3
+$ freecad street-rail.FCStd
 ```
 
 &#x200B;
 
-
-![street-rail](./design/street-rail/street-rail.png)
+![street-rail](./design/itteration-3/street-rail.png)
 
 design: ***street-rail***
 
-Note: You can use what's called a "axle beam" \- a premade IFS system that uses 2 rotating arms instead of the complicated a-arm setup. Not perfect, but it is simple, easy to repair, and sturdy compaired to most IFS systems.
-
-\+ great handeling
-
-\+ very efficent
-
-\+ solid axle rear suspention
-
-\- independant front suspention
-
-\- front coil shocks
-
 &#x200B;
 &#x200B;
-
-![offroad-van](./designs/offroad-van/offroad-van.png)
-
-design: ***offroad-van***
-
-Note: This has solid axles, and shit handeling, but it can do light rock crawling, and can carry a full load.
-
-\+ offroad
-
-\+ towing
-
-\- shit handeling
-
-&#x200B;
-&#x200B;
-
 
 **Inspirations:**
 
