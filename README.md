@@ -103,7 +103,7 @@ Currently working on it in FreeCAD, designs in the ``./design`` folder
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
-$ cd suckless-car/design/[design]
+$ cd minimal-car/design/[design]
 $ freecad [design].FCStd
 ```
 
