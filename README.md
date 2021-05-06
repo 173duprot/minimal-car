@@ -105,18 +105,14 @@ Currently working on it in FreeCAD, designs in the ``./design`` folder
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
-$ cd minimal-car/design/itteration-3
-$ freecad street-rail.FCStd
+$ cd minimal-car
+$ freecad car.FCStd
 ```
-
-&#x200B;
 
 ![street-rail](./design/itteration-3/street-rail.png)
 
-design: ***street-rail***
+&#x200B;
 
-&#x200B;
-&#x200B;
 
 **Inspirations:**
 
