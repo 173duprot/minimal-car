@@ -101,7 +101,7 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 **Development:**
 
-Currently working on it in FreeCAD, designs in the ``./design`` folder
+Currently working on it in FreeCAD
 
 ```
 $ git clone https://github.com/sketchsnipe/suckless-car
