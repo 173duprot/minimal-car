@@ -59,11 +59,11 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 \| Regenerative breaking ( Notes\[4\] )
 
-\- Off-road
+\| Off-road
 
 \| Good Handeling
 
-\- Towing
+\| Towing
 
 &#x200B;
 
