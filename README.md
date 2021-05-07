@@ -109,7 +109,7 @@ $ cd minimal-car
 $ freecad car.FCStd
 ```
 
-![street-rail](./design/itteration-3/street-rail.png)
+![street-rail](./car.png)
 
 &#x200B;
 
