@@ -88,9 +88,9 @@ It is no secret that modern cars are complex. Your average Toyota has over 30,00
 
 \[5.1\] However they have horrible handeling. I will be using them on the rear with leaf springs (Notes[6]) with a traction bar - similar to the implimentation [mucle cars use](https://www.dragzine.com/tech-stories/chassis-safety/how-to-going-fast-with-leaf-spring-suspensions/)
 
-\[5.1.1\] Leaf springs have been used since the middle ages and are still indestructible, strong, adjustable, and modifiable with a wrench. Added benefit, if one of the spring plates snap, the car remains drivable. Salvageable from 18 wheelers, trailers, most old cars, modern trucks, buses etc.
+\[5.2\] Leaf springs have been used since the middle ages and are still indestructible, strong, adjustable, and modifiable with a wrench. Added benefit, if one of the spring plates snap, the car remains drivable. Salvageable from 18 wheelers, trailers, most old cars, modern trucks, buses etc.
 
-\[5.2\] On the front I will be using the simplest IFS system I can - the [front suspention used by dune buggies](https://www.texasdesertracing.com/wp-content/uploads/2014/02/Class-10.jpg) - 2 a-arms, a steering arm, and a coil-spring/shock.
+\[5.3\] On the front I will be using the simplest IFS system I can - the [front suspention used by dune buggies](https://www.texasdesertracing.com/wp-content/uploads/2014/02/Class-10.jpg) - 2 a-arms, a steering arm, and a coil-spring/shock.
 
 \[6\] No differential, independent electric motors have enough give to allow wheels to spin at different speed. If the car gets stuck, possibly giving the user the option of manual control of the left and right motor?
 
