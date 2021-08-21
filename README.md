@@ -1,5 +1,3 @@
-\# Update 8/18/2021 : Currently teaching myself welding, learning how to reverse-engeneer tesla motors, and gathering the funds to purchase materials
-
 **Abstract:**
 
 It is no secret that modern cars are complex. Your average Toyota has over 30,000 parts, and about 6000 moving parts. This means they are near impossible too modify, adjust, or repair without piles of specialized parts, 8 years in the automotive repair industry, and hundreds of hours of work. Cars are so complex that they need to be 'diagnosed'. This is a disaster, cars have traded both simplicity and reliability for comfort. Very few people have the time, skill, or patience to work on their cars, and so are forced to fork out thousands for even just minor damages, if done to an obscure enough part. Just recently I had to pay over \~$1500 just because some small, obscure component broke in my car. The goal of this project is to create the simplest, most reliable, and easy to fix car out there.
@@ -127,3 +125,6 @@ Street legal "gokart" cars ( like the Ariel Atom 4 )
 Dune Buggies
 
 Tube chassie jeeps
+
+
+\# Update 8/18/2021 : Currently teaching myself welding, learning how to reverse-engeneer tesla motors, and gathering the funds to purchase materials
