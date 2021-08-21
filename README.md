@@ -126,5 +126,5 @@ Dune Buggies
 
 Tube chassie jeeps
 
-
-\# Update 8/18/2021 : Currently teaching myself welding, learning how to reverse-engeneer tesla motors, and gathering the funds to purchase materials
+**# Updates
+  8/18/2021 : Currently teaching myself welding, learning how to reverse-engeneer tesla motors, and gathering the funds to purchase materials
