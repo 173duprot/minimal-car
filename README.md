@@ -129,3 +129,5 @@ Tube chassie jeeps
 **\# Updates**
   
   8/18/2021 : Currently teaching myself welding, learning how to reverse-engeneer tesla motors, and gathering the funds to purchase materials
+
+  10/27/2021 : Still working through uni, also exploring alternatives like [electric mopeds](https://github.com/173duprot/minimal-car/issues/1#issuecomment-974984979)
