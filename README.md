@@ -132,4 +132,4 @@ Tube chassie jeeps
 
   10/27/2021 : Still working through uni, also exploring alternatives like [electric mopeds](https://github.com/173duprot/minimal-car/issues/1#issuecomment-974984979).
   
-  02/14/2023 : Still a viable project, and I'm still too poor to work on it. If you want a suckless scooter alternative, look into EUC's. The simplest possible vehicles.
+  02/14/2023 : Still a viable project, and I'm still too poor to work on it. If anyone wants too take inspiration for their own project, feel free... If your looking for a suckless ***moped*** alternative, look into EUC's. The simplest possible vehicles.
